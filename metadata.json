@@ -1,0 +1,6 @@
+{
+  "name": "Sandhya",
+  "description": "GenAI-powered daily companion and trust layer for senior citizens (age 60+) with scam detection, paperwork translator, medicine reminders, and family circle.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
